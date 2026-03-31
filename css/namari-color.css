@@ -63,7 +63,7 @@ a:hover,
 
 #nav-main li a:hover,
 #header.nav-solid #nav-main li a:hover {
-    color: #e07e0c;
+    color: #71fb4b;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
     opacity: 1 !important;
 }
@@ -81,8 +81,8 @@ a:hover,
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #e07e0c;
-    border-color: #e07e0c;
+    color: #71fb4b;
+    border-color: #71fb4b;
 }
 
 
