@@ -143,8 +143,9 @@ a:hover,
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/assets/AMIA%20HIGHLIGHT%20PHOTOS/Tulunan%20Sabog%20tanim%201.JPG") no-repeat center top;
+    background: url("../images/assets/AMIA%20HIGHLIGHT%20PHOTOS/Tulunan%20Sabog%20tanim%201.JPG") no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 
